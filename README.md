@@ -73,7 +73,7 @@ If you want to create a new file for configuration you should know a few rules:
 
 ## Important!!
 
-Before launching the application, you should also fill in the environment variables in the file .env you can use .env.example for this
+Before launching the application, you should also fill in the environment variables in the file .env
 
 
 ```bash
