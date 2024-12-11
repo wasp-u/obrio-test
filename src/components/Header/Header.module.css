@@ -1,0 +1,13 @@
+.wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 1182px;
+  padding: 15px 0;
+}
+
+.logo {
+  position: absolute;
+  left: 50%;
+  top: 15px;
+  transform: translateX(-50%);
+}
